@@ -326,7 +326,7 @@ with st.container():
 st.markdown('---')
 
 with st.container():
-    st.subheader("Top contrubuting Cousins")
+    st.subheader("Top contrubuting chaddi buddy")
     st.altair_chart(chart_user, use_container_width=True) 
 
 st.markdown('---')
